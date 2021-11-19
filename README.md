@@ -9,14 +9,14 @@ Download on `Play Store` :
 - [Carafe Pro](https://bit.ly/carafe-pro)
 
 Download on `App Store` :
-- Coming soon
+- _Coming soon_
 
 
 
 <hr />
 
 #### 🔍 COS'È CARAFE?
-Carafe è un applicazione android che ti fornisce le istruzioni necessarie per creare *grandi* cocktail in **GRANDI** quantità. Un vasto ricettario per preparare intere caraffe di cocktail alcolici e non alcolici per aperitivi, feste, happy hours.
+Carafe è un applicazione che ti fornisce le istruzioni necessarie per creare *grandi* cocktail in **GRANDI** quantità. Un vasto ricettario per preparare intere caraffe di cocktail alcolici e non alcolici per aperitivi, feste, happy hours.
 
 #### 🍹 VASTA SCELTA
 Da Mojito a Margarita, passando per Moscow Mule e Gin Tonic, sbizzarrisciti tra molti cocktail facili e veloci da preparare per stupire i tuoi amici, parenti e ospiti.
