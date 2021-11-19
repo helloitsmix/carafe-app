@@ -4,8 +4,8 @@
 #### WIP: Carafe is my first app, it's currently in 🍝 Italian only. Will update this readme once English will be available.
 
 Download it on Play Store
-- [Carafe](https://bit.ly/carafe-app)
-- [Carafe Pro](https://bit.ly/carafe-pro)
+- [Carafe](https://bit.ly/carafe-app) (Gratis)
+- [Carafe Pro](https://bit.ly/carafe-pro) (0.99€)
 
 #### 🔍 COS'È CARAFE?
 Carafe è un applicazione android che ti fornisce le istruzioni necessarie per creare *grandi* cocktail in **GRANDI** quantità. Un vasto ricettario per preparare diversi cocktail alcolici e non alcolici per aperitivi, feste, happy hours.
