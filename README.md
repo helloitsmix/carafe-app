@@ -1,7 +1,5 @@
 ![carafe-cover](./src/img/cover.png)
 
-## **CARAFE!** 🎉
-
 > :warning: **WIP**: Carafe is currently in 🍝 **Italian** only. Will update this readme once English will be available.
 
 Download on `Play Store` :
@@ -11,9 +9,9 @@ Download on `Play Store` :
 Download on `App Store` :
 - _Coming soon_
 
-
-
 <hr />
+
+![carafe-screen-1](./src/img/screen1.png)
 
 #### 🔍 COS'È CARAFE?
 Carafe è un applicazione che ti fornisce le istruzioni necessarie per creare *grandi* cocktail in **GRANDI** quantità. Un vasto ricettario per preparare intere caraffe di cocktail alcolici e non alcolici per aperitivi, feste, happy hours.
