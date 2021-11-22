@@ -9,8 +9,6 @@ Download on `Play Store` :
 Download on `App Store` :
 - _Coming soon_
 
-<hr />
-
 ![carafe-screen-1](./src/img/screen1.png)
 
 #### 🔍 COS'È CARAFE?
