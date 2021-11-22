@@ -1,7 +1,5 @@
 ![carafe-cover](./src/img/cover.png)
 
-## **CARAFE!** 🎉
-
 > :warning: **WIP**: Carafe is currently in 🍝 **Italian** only. Will update this readme once English will be available.
 
 Download on `Play Store` :
