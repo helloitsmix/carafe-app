@@ -30,6 +30,8 @@ Non serve essere dei barman esperti o dei maestri della mixology! Grazie alle sp
 - Dark Mode
 - Continui aggiornamenti
 
+![carafe-screen-2](./src/img/screen2.png)
+
 Hai consigli, domande, o vuoi suggerirci un nuovo drink?
 📬 codinghomie@gmail.com
 
