@@ -35,3 +35,5 @@ Hai consigli, domande, o vuoi suggerirci un nuovo drink?
 
 Ti piacciono le illustrazioni che vedi? Sono state create da @ilnmgg
 📬 ilemeggiolaro@gmail.com
+
+###### [Landing page](https://lorenzovezzaro.it/portfolio/carafe/) · [Privacy](https://lorenzovezzaro.it/portfolio/carafe/privacy-policy/)
