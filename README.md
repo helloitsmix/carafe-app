@@ -33,7 +33,7 @@ Non serve essere dei barman esperti o dei maestri della mixology! Grazie alle sp
 Hai consigli, domande, o vuoi suggerirci un nuovo drink?
 📬 codinghomie@gmail.com
 
-Ti piacciono le illustrazioni che vedi? Sono state create da @ilnmgg
+Ti piacciono le illustrazioni che vedi? Sono state create da @ilnmgg.ttt
 📬 ilemeggiolaro@gmail.com
 
 ###### [Landing page](https://lorenzovezzaro.it/portfolio/carafe/) · [Privacy](https://lorenzovezzaro.it/portfolio/carafe/privacy-policy/)
