@@ -2,11 +2,11 @@
 
 > :warning: **WIP**: Carafe is currently in 🍝 **Italian** only. Will update this readme once English will be available.
 
-Download on `Play Store` :
+Download su `Play Store` :
 - [Carafe](https://bit.ly/carafe-app)
 - [Carafe Pro](https://bit.ly/carafe-pro)
 
-Download on `App Store` :
+Download su `App Store` :
 - _Coming soon_
 
 ![carafe-screen-1](./src/img/screen1.png)
@@ -31,7 +31,7 @@ Non serve essere dei barman esperti o dei maestri della mixology! Grazie alle sp
 ![carafe-screen-2](./src/img/screen2.png)
 
 Hai consigli, domande, o vuoi suggerirci un nuovo drink?
-📬 codinghomie@gmail.com
+📬 vezzarolorenzo@gmail.com
 
 Ti piacciono le illustrazioni che vedi? Sono state create da @ilnmgg.ttt
 📬 ilemeggiolaro@gmail.com
